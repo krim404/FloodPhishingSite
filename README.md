@@ -1,4 +1,7 @@
-# FloodPhishingSite
+# FloodPhishingSite 
+This Fork is a modified version to work with python3. Nothing special though  
+  
+# Original Description
 A script that can be used to flood a phishing website with useless information.
 
 This script is designed confuse the Phishing Website makers, flooding them with useless information. 
